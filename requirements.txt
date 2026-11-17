@@ -1,0 +1,7 @@
+# Same versions as the training environment (.venv), so the model loads identically
+mlflow-skinny==3.18.0
+scikit-learn==1.9.1
+skops==0.16.0
+numpy==2.5.5
+fastapi==0.163.1
+uvicorn==0.54.0

@@ -1,0 +1,9 @@
+.venv/
+.git/
+.dvc/
+data/
+mlruns/
+mlflow.db
+model/
+*.ipynb
+__pycache__/
